@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/Uwedwa/Uwedwa/output/snake.svg" alt="Snake animation" />
 
 ###
-
+###
 ### <div align="center">
 ###  <a href="https://open.spotify.com/user/21u45h3ofmkwqal272f4fzrci">
 ###    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21u45h3ofmkwqal272f4fzrci&count=5" alt="Spotify recently played"  />
